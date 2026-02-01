@@ -1,1 +1,3 @@
-# Git-Github-Notes-by-me
+Just some small lessons about Git & Github 
+learning platform : YouTube 
+Video :
